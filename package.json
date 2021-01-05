@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://dvdlin214.github.io/picture_search",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bootstrap": "^3.3.7",
     "dotenv": "^6.2.0",
     "gh-pages": "^2.0.1",
